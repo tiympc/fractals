@@ -1,1 +1,2 @@
 # fractals
+Learning about fractals!
